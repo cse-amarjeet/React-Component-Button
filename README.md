@@ -1,4 +1,4 @@
-# Getting Started with Raects-Components-Button
+# Getting Started with React-Component-Button
 
 Welcome to our GitHub repository! 
 
